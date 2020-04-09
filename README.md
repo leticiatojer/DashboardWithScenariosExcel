@@ -1,4 +1,4 @@
-# DashboardWithScenariosExcel
+# Dashboard With Scenarios Excel
 Completed in January 2020
 
 This project was part of my Udacity Business Analytics Nanodegree. In this project, I had to to analyze real life data from the New York Stock Exchange. While working on it, I went through the process of calculating summary statistics, drawing an inference from the statistics, calculating business metrics and using models to forecast future growth prospects for the companies. 
